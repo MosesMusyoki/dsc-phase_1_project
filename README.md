@@ -51,11 +51,28 @@ From this original dataset I perform data cleaning by dropping some columns and 
 
 ### General trend
 
-<img src="./images/trend.png"/>
+<img src="./images/trend.png"/> 
 
-### Visualization of number of engines
+### Visualization of engines
 
-<img src="./images/engines.png"/> <img src="./images/engines.png"/> 
+<img src="./images/engines.png"/>
+
+### Visualization of amateur built
+
+<img src="./images/built.png"/> 
+
+### Visualization of make of aircraft
+
+<img src="./images/makes.png"/>
+
+### Visualization of engine types
+
+<img src="./images/types.png"/> 
+
+### Dashboard link 
+
+https://public.tableau.com/shared/4X95GXWY7?:display_count=n&:origin=viz_share_link
+
 
 ## Conclusion
 
@@ -75,6 +92,3 @@ Some recommendations are:
 
 5. Airplanes not built by amateurs have the highest number of uninjured people and also the survival rate. The company should consider buying an airplane that is not built by amateurs.
 
-
-
-### Dashboard link https://public.tableau.com/shared/4X95GXWY7?:display_count=n&:origin=viz_share_link

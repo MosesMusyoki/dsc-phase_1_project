@@ -49,6 +49,9 @@ From this original dataset I perform data cleaning by dropping some columns and 
 
 ## Visualizations
 
+### General trend
+
+<img src="./images/built.png"/>
 
 ## Conclusion
 
@@ -58,43 +61,16 @@ The dataset used helped generate insights for the company to consider to purchas
 
 Some recommendations are:
 
-1. With the decrease in the number of airplane accidents over the years, there is less general risk in owning an airplane. 
+1. With the decrease in the number of airplane accidents over the years, there is less general risk in owning an airplane. This can be attributed to increased regulations to maintain safety and also due to the advancement in technology.
 
-    This can be attributed to increased regulations to maintain safety and also due to the advancement in technology.
+2. The company should consider buying an airplane with 2 engines. A plane with 2 engines has a high number of uninjured people and also a slightly higher survival rate.
 
-2. The company should consider buying an airplane with 2 engines. A plane with 2 engines has a high number of uninjured people 
+3. The company should consider buying an airplace with the turbo fan engine type. Turbo fan has the high number of uninjured followed by reciprocating engine type. Turbo fan engine is also the most common for commercial and private jets.Reciprocating has the highest survival rate and this may be  a good choice for the company if it plans on buying a small aircraft
 
-    and also a slightly higher survival rate.
+4. Cessna has a higher survival rate despite having high number of fatal injuries. Boeing has the highest number of uninjured people. The company would consider buying a boeing due to its high number of uninjured or a Cessna due to its high survival rate.
 
-3. The company should consider buying an airplace with the turbo fan engine type. Turbo fan has the high number of uninjured 
-
-    followed by reciprocating engine type. Turbo fan engine is also the most common for commercial and private jets. 
-
-    Reciprocating has the highest survival rate and this may be  a good choice for the company if it plans on buying a small 
-
-    aircraft
-
-4. Cessna has a higher survival rate despite having high number of fatal injuries. Boeing has the highest number of uninjured 
-
-    people. The company would consider buying a boeing due to its high number of uninjured or a Cessna due to its high survival 
-
-    rate.
-
-5. Airplanes not built by amateurs have the highest number of uninjured people and also the survival rate. The company should 
-
-    consider buying an airplane that is not built by amateurs.
+5. Airplanes not built by amateurs have the highest number of uninjured people and also the survival rate. The company should consider buying an airplane that is not built by amateurs.
 
 
 
 ### Dashboard link https://public.tableau.com/shared/4X95GXWY7?:display_count=n&:origin=viz_share_link
-
-# powerpoint presentation
-
-introduction
-[ ] business context
-[ ] data
-[ ] process steps
-[ ] results & business application (recommendations)
-[ ] evaluation & future improvement ideas
-[ ] contact information
-

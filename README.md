@@ -51,7 +51,11 @@ From this original dataset I perform data cleaning by dropping some columns and 
 
 ### General trend
 
-<img src="./images/built.png"/>
+<img src="./images/trend.png"/>
+
+### Visualization of number of engines
+
+<img src="./images/engines.png"/> <img src="./images/engines.png"/> 
 
 ## Conclusion
 
